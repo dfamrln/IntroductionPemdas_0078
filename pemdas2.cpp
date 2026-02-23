@@ -17,4 +17,6 @@ int main()
     // langkah 4
     luas = panjang * lebar;
     
+    // langkah 5
+    cout << "Hasilnya : " << luas; 
 }
